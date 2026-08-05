@@ -12,7 +12,7 @@ Passionate about coding, building scalable applications and software development
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 **Languages & Backend:** Java, Python, C++, Laravel
 
@@ -25,7 +25,7 @@ Passionate about coding, building scalable applications and software development
 
 ---
 
-# 💡 Interests
+## 💡 Interests
 
 - 🐍 Python Development
 - 🖥️ Software Engineering
@@ -34,7 +34,7 @@ Passionate about coding, building scalable applications and software development
 
 ---
 
-# 💻 Skills
+## 💻 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,9 +49,16 @@ Passionate about coding, building scalable applications and software development
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
+## 💻 Skills
+
+| 🐍 Python | ☕ Java | 🗄️ MySQL | ⚛️ React | 🔴 Laravel | 🌐 HTML5 | 🎨 CSS3 | ➕ C++ | 🔄 Git | 👨‍💻 GitHub | 🐳 Docker | 💙 VS Code |
+|:---------:|:-------:|:--------:|:--------:|:----------:|:--------:|:-------:|:------:|:------:|:----------:|:---------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> |
+
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -61,13 +68,11 @@ Passionate about coding, building scalable applications and software development
 
 ---
 
-# 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/Pallavi-Mahajan/Pallavi-Mahajan/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p>
 <a href="https://linkedin.com/in/pallavi-mahajan1">
