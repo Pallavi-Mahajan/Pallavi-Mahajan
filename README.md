@@ -3,7 +3,7 @@
 <h3 align="center">🎓 MCA Graduate | Aspiring Software Developer</h3>
 
 <p align="center">
-Passionate about coding, building scalable applications, and exploring AI & Machine Learning.
+Passionate about coding, building scalable applications and software development.
 </p>
 
 <p align="center">
@@ -12,24 +12,22 @@ Passionate about coding, building scalable applications, and exploring AI & Mach
 
 ---
 
-# 🚀 About Me
+# 🚀 Tech Stack
 
-- 🎓 MCA Graduate
-- 💻 Aspiring Java Backend Developer
-- 🌱 Currently learning Spring Boot & REST APIs
-- 🤖 Interested in AI & Machine Learning
-- 📫 Reach me: **your-email@gmail.com**
+**Languages & Backend:** Java, Python, C++, Laravel
 
----
+**Frontend:** HTML, CSS, React, JavaScript
 
-# 🛠️ Tech Stack
+**Database:** MySQL, SQL
+
+**Tools:** Git, GitHub, Docker, XAMPP, NetBeans, Jupyter Notebook, Visual Studio Code (VS Code).
 
 
 ---
 
 # 💡 Interests
 
-- ☕ Java Backend Development
+- 🐍 Python Development
 - 🖥️ Software Engineering
 - 🤖 AI & Machine Learning
 - 🌐 Web Development
