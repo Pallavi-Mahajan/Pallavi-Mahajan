@@ -50,15 +50,6 @@ Passionate about coding, building scalable applications and software development
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-Mahajan&layout=compact&theme=tokyonight)
 
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Pallavi-Mahajan&show_icons=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=70a5fd)
-
-![](https://streak-stats.demolab.com?user=Pallavi-Mahajan&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi-Mahajan&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&border_color=70a5fd)
-
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Pallavi-Mahajan/Pallavi-Mahajan/output/github-contribution-grid-snake.svg)
