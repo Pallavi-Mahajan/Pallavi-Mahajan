@@ -52,12 +52,11 @@ Passionate about coding, building scalable applications and software development
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Pallavi-Mahajan/Pallavi-Mahajan/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+![Snake animation](https://github.com/Pallavi-Mahajan/Pallavi-Mahajan/blob/output/github-snake.svg)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Pallavi-Mahajan/Pallavi-Mahajan/output/github-contribution-grid-snake.svg" />
-</p>
-
+</div>
 ---
 
 ## 🌐 Connect with Me
